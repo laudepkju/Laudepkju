@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Laudepkju
-- 👀 I’m interested in GIS, Mapping, Decision Making, and optimizing location challenges
-- 🌱 I’m currently learning QGIS, Python, Arcpy, Postgresql, Spatial Data Analysis
+- 👀 I’m interested in GIS, Mapping, decision-making, and python optimization
+- 🌱 I’m currently learning GIS Programming, Python, Arcpy, Postgresql
 - 💞️ I’m looking to collaborate on data analysis and mapping
-- 📫 How to reach me : Laurahgarcia2@gmail.com
+- 📫 How to reach me : Laurahgarcia@gmail.com
 - 😄 Pronouns: She\Her
-- ⚡ Fun fact: I love cats, puzzles and crafts!
+- ⚡ Fun fact: I love cats, puzzles and videogames!
 
 <!---
 Laudepkju/Laudepkju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
